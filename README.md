@@ -1,4 +1,4 @@
-# Olá, eu sou Luan! 👋
+# Olá, eu sou o Luan! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** com um grande interesse em **Desenvolvimento Back-End**. Atualmente, estou focado em aprender e aplicar tecnologias como **Python**, **Django**, **APIs REST** e **Banco de Dados**. Meu objetivo é criar soluções escaláveis e eficientes para desafios reais no mundo do desenvolvimento.
 
@@ -11,6 +11,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com um grande intere
 
 ## 💡 O que estou fazendo:
 Estou criando projetos para melhorar minhas habilidades práticas em desenvolvimento Back-End. Alguns exemplos incluem a criação de uma **API de gerenciamento de tarefas** e uma **calculadora em Python** para reforçar minha lógica de programação e manipulação de dados.
+https://github.com/luanfillip/calculadora-python
 
 ## 📚 O que estou aprendendo:
 - **Algoritmos e Estruturas de Dados**: Aprendendo sobre como otimizar o desempenho e a escalabilidade de sistemas.
