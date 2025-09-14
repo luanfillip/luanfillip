@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Luan! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** com um grande interesse em **Desenvolvimento Back-End**. Atualmente, estou focado em aprender e aplicar tecnologias como **Python**, **Django**, **APIs REST** e **Banco de Dados**. Meu objetivo é criar soluções escaláveis e eficientes para desafios reais no mundo do desenvolvimento.
 
