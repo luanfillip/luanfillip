@@ -1,21 +1,27 @@
+# Olá, eu sou [Seu Nome]! 👋
 
-Olá! Bem-vindo ao meu repositório onde compartilho meus aprendizados e práticas relacionadas ao desenvolvimento Back-End .
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com um grande interesse em **Desenvolvimento Back-End**. Atualmente, estou focado em aprender e aplicar tecnologias como **Python**, **Django**, **APIs REST** e **Banco de Dados**. Meu objetivo é criar soluções escaláveis e eficientes para desafios reais no mundo do desenvolvimento.
 
-Tecnologias que estou aprendendo:
-Python : Fundamentos, lógica de programação e bibliotecas úteis.
-Django : Framework para criação de APIs REST.
-MySQL/PostgreSQL : Conceitos básicos de bancos de dados relacionais.
-APIs REST : Como construir e extrair APIs usando Python.
-Git e GitHub : Controle de versão e boas práticas de colaboração.
-Meu objetivo:
-Aprenda, pratique e aplique as melhores práticas de desenvolvimento de software em projetos reais.
+## 🚀 Tecnologias que estou aprendendo:
+- **Back-End**: Python, Django, Flask
+- **Banco de Dados**: MySQL, PostgreSQL
+- **APIs**: Desenvolvimento e consumo de APIs RESTful
+- **Ferramentas**: Git, GitHub, Docker
+- **Metodologias**: Scrum, Desenvolvimento Ágil
 
-Em breve: Vou adicionar projetos práticos, tutoriais e exemplos de código conforme para evoluir.
+## 💡 O que estou fazendo:
+Estou criando projetos para melhorar minhas habilidades práticas em desenvolvimento Back-End. Alguns exemplos incluem a criação de uma **API de gerenciamento de tarefas** e uma **calculadora em Python** para reforçar minha lógica de programação e manipulação de dados.
 
-Como você pode me ajudar:
-Se você é desenvolvedor ou entusiasta de Back-End, fique à vontade para sugerir projetos, colaborar ou compartilhar recursos que possam me ajudar a aprender ainda mais.
+## 📚 O que estou aprendendo:
+- **Algoritmos e Estruturas de Dados**: Aprendendo sobre como otimizar o desempenho e a escalabilidade de sistemas.
+- **Desenvolvimento de APIs**: Estou construindo e consumindo **APIs RESTful** para entender como criar aplicações desacopladas e eficientes.
+- **Boas práticas de programação**: Focando em **código limpo**, **testes automatizados** e **design patterns**.
 
-Fique ligado nos meus commits e na minha evolução! 🎯
+## 🔧 Como você pode me ajudar:
+Estou sempre aberto a aprender mais e colaborar em projetos open-source. Se você tiver ideias, sugestões ou quiser trocar conhecimento sobre **Back-End**, **APIs** ou **Python**, fico à disposição!
 
-Contatos:
-https://www.linkedin.com/in/luan-matoso-1319b0384/
+## 📫 Como me encontrar:
+- [LinkedIn]https://www.linkedin.com/in/luan-matoso-1319b0384/
+---
+
+⚡️ **Fique ligado nos meus projetos e vamos juntos criar soluções inovadoras!**
